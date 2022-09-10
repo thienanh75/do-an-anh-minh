@@ -11,7 +11,7 @@ namespace Bai2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Anh Shelby");
-            Console.WriteLine("ANh");
+            Console.WriteLine("ANh . vcl nha ", 1);
         }
     }
 }
