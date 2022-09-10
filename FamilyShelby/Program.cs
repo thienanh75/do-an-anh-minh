@@ -15,6 +15,7 @@ namespace FamilyShelby
             Console.WriteLine("John");
             Console.WriteLine("May");
             Console.WriteLine("Jennifer");
+            Console.WriteLine("Jennifer");
         }
     }
 }
