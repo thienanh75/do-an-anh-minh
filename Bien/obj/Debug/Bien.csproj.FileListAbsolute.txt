@@ -1,0 +1,6 @@
+C:\C#\Bien\Bien\bin\Debug\Bien.exe.config
+C:\C#\Bien\Bien\bin\Debug\Bien.exe
+C:\C#\Bien\Bien\bin\Debug\Bien.pdb
+C:\C#\Bien\Bien\obj\Debug\Bien.csprojResolveAssemblyReference.cache
+C:\C#\Bien\Bien\obj\Debug\Bien.exe
+C:\C#\Bien\Bien\obj\Debug\Bien.pdb
